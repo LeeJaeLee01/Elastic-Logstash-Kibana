@@ -1,0 +1,11 @@
+{
+  "name": "Elastic-Logstash-Kibana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LeeJaeLee01/Elastic-Logstash-Kibana.git",
+  "author": "Cuong Phung Duc <cuongpd@foobla.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
