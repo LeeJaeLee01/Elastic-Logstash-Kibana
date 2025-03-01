@@ -1,2 +1,2 @@
 # Elastic-Logstash-Kibana
-ELK-Tour
+Setup Logging and Search with JS
